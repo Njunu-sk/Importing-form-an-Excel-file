@@ -3,6 +3,8 @@
 - Add an excel file in `lib` directory
 
   ```
+  mkdir lib
+  
   touch lib/products.xlsx
   ```
 
